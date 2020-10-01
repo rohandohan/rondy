@@ -1,2 +1,2 @@
 # rondy
-Nice
+This is my first Repositary
